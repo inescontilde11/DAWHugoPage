@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Mi gato tiene un blog'
+theme='universal'
+
+[params]
+   style = "violet"
